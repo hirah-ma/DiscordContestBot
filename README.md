@@ -3,7 +3,7 @@
 
 A Python-based Discord bot that **automatically posts upcoming competitive programming contests** every week to your server! Perfect for students, coders, and teams looking to stay updated on contests from platforms like LeetCode, Codeforces, CodeChef, and more.
 
-![Bot in action](images/i1/demo.png)
+![Bot in action](images/demo.gif)
 
 ---
 
