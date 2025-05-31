@@ -52,13 +52,7 @@ python main.py
 
 > Or deploy using **Replit + UptimeRobot** for weekly auto-pinging.
 
----
-
-## 📸 Demo
-
-Here’s how the bot message looks when posted:
-
-![Bot Preview](images/i1/demo.png)
+_Remember to use /send to target the correct endpoint of the replit app
 
 ---
 
@@ -78,21 +72,4 @@ Here’s how the bot message looks when posted:
 Built by [Hirah Mohammadi Afroze](https://github.com/hirah-ma)  
 Using **Python** & [discord.py](https://discordpy.readthedocs.io)
 
----
 
-## 🛡️ License
-
-MIT License – Free to use, modify, and share.
-
----
-
-## 🙋‍♀️ Want More?
-
-Let me know if you want to:
-
-- Add more screenshots or GIFs
-- Include contribution guidelines
-- Mention how to schedule the bot using UptimeRobot
-- Link to a YouTube demo
-
-I'll keep improving this bot and the README with your feedback! 💬
